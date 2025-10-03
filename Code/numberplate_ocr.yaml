@@ -1,0 +1,6 @@
+names:
+  0: number_plate
+path: C:\Users\sav13\OneDrive\Desktop\project\numberplate_yolo_ocr
+test: C:\Users\sav13\OneDrive\Desktop\project\numberplate_yolo_ocr\images\test
+train: C:\Users\sav13\OneDrive\Desktop\project\numberplate_yolo_ocr\images\train
+val: C:\Users\sav13\OneDrive\Desktop\project\numberplate_yolo_ocr\images\val
